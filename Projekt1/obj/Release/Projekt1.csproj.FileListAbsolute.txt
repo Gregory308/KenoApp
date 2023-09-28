@@ -1,0 +1,11 @@
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\bin\Release\Projekt1.exe.config
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\bin\Release\Projekt1.exe
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\bin\Release\Projekt1.pdb
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\bin\Release\RandomNumbersGenerator.dll
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.Form1.resources
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.Properties.Resources.resources
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.csproj.GenerateResource.cache
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.csproj.CoreCompileInputs.cache
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.csproj.CopyComplete
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.exe
+C:\Users\mdrabowi\source\repos\Projekt1\Projekt1\obj\Release\Projekt1.pdb

@@ -1,0 +1,11 @@
+imie	nazwisko	numer 1	numer 2	numer 3	numer 4
+Bartlomiej	Pecko	5	5	5	5
+Waldemar	Dacko				
+Grzegorz	Swistak				
+Anna	Ziobro				
+Bartlomiej	Paluch				
+Dawid	Durolek				
+Dominika	Glowacka				
+Krytian	Burbano-Marek				
+Krystian	Klosowicz				
+Mateusz	Drabowicz				
